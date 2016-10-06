@@ -1,5 +1,3 @@
-# debug
-
 I.  debug
 ------------
 Intro Class
